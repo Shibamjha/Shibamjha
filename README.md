@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... java,c++ and have knowledge of html and css and java-script
 - 💞️ I’m looking to collaborate on ... projects to gain knowlwdge and experience
 - 📫 How to reach me ... email-shibamcoder@gmail.com
-- i am a final year IT student right now from MCKVIE
+- i am a IT student from MCKVIE
+- Currently I am working as a Junior Software Engineer In Cornerstone OnDemand.
 
 <!---
 Shibamjha/Shibamjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
